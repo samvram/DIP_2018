@@ -13,5 +13,6 @@ The assignment has been provided by teaching assistant **Ms. Soumya Sara John**,
 * Programming Assignment 3 - [DIP_PA3](https://github.com/samvram/DIP_2018/blob/master/DIP18_PA3/DIP_PA3/DIP_PA3.ipynb) - Image enhancement tasks in spatial and frequency domains.
 * Programming Assignment 4 - [DIP_PA4](https://github.com/samvram/DIP_2018/blob/master/DIP18_PA4/DIP_PA4/DIP_PA4.ipynb) - Image restoration, colour image processing and multi-scale wavelet-based image compression tasks
 * Programming Assignment 5 - [DIP_PA5](https://github.com/samvram/DIP_2018/blob/master/DIP18_PA5/DIP_PA5/DIP_PA5.ipynb) - Image segmentation
-* Programming Assignment 6-10 - [DIP_PA6-10](https://github.com/samvram/DIP_2018/tree/master/DIP18_PA6-10) - All of the above.
+* Programming Assignment 6-10 - [DIP_PA6-10](https://github.com/samvram/DIP_2018/tree/master/DIP18_PA6-10/PDFs) - All of the above.
+
 

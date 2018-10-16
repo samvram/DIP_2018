@@ -91,3 +91,15 @@ title('Reconstructed Image');
 subplot(1,2,2);
 imshow(uint8(255/max(max(log(abs(freq_spec)))*log(abs(freq_spec)))));
 title('Spectrum of the Reconstructed Image');
+
+%% Conclusion
+%
+% With the Magnitude Spectra of image with and without the salt and pepper
+% noise, we can see few patterns in the spectra of clean image which can no
+% more be seen in the noisy spectra. 
+%
+% Median Filter is best for Salt and Pepper noise, and the mean filter
+% works well for Gaussian noise.
+%
+% In frequency domain we dont quite get the same results as spatial domain,
+% for salt and pepper noise, spatial domain median filter is much better.

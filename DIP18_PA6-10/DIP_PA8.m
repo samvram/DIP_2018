@@ -55,7 +55,11 @@ title('Alpha Trimmed Filter Result');
 
 
 %% Anisotropic diffusion
-
+%
+% This method works on MATLAB 2018a 
+%
+% <<Answer3b.jpg>>
+%
 image_diffusion = imdiffusefilt(image);
 
 figure;
@@ -67,3 +71,9 @@ title('Noisy Image');
 subplot(1,2,2);
 imshow(image_diffusion);
 title('Anisotropic Diffusion Filter Result');
+
+%% Conclusion
+%
+% Alpha trimmed filtering performs well on removinf noise from the give
+% noise of the image. Anisotropic diffusion also performs gallantly on the
+% given image.

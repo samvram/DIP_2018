@@ -60,3 +60,7 @@ end
 
 subplot(1,2,2)
 imshow(imagerot);
+
+%% Conclusion
+%
+% Job done
